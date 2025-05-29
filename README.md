@@ -1,4 +1,4 @@
 # RamDownloader
-instructions: \n
-chmod u+x ramdownloader.sh \n
-./ramdownloader.sh \n
+instructions: <br>
+chmod u+x ramdownloader.sh <br>
+./ramdownloader.sh <br>
